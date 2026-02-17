@@ -2,6 +2,8 @@
 
 A professional SwiftUI macOS application designed for Digital Imaging Technicians (DITs) to automatically generate standardized shooting day folder structures for video production.
 
+![DIT FolderGen Screenshot](screenshot.png)
+
 ## Features
 
 - **Professional Folder Generation**: Create standardized folder structures based on industry conventions
