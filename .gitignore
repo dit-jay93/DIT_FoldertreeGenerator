@@ -1,6 +1,6 @@
 # Xcode
 .DS_Store
-*/build/*
+build/
 *.pbxuser
 !default.pbxuser
 *.mode1v3
@@ -24,7 +24,6 @@ project.xcworkspace/
 Packages/
 Package.pins
 Package.resolved
-*.xcodeproj
 
 # CocoaPods
 Pods/
