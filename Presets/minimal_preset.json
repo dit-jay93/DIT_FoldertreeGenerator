@@ -1,0 +1,9 @@
+{
+  "preset_name": "Minimal",
+  "folders": [
+    "Camera_Media",
+    "Sound_Media",
+    "Reports",
+    "Dailies"
+  ]
+}

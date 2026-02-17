@@ -1,0 +1,16 @@
+{
+  "preset_name": "Documentary",
+  "folders": [
+    "Camera_Media/A_Camera/Original",
+    "Camera_Media/A_Camera/Backup",
+    "Sound_Media/Field_Recording",
+    "Sound_Media/Interviews",
+    "Reports/Shot_Lists",
+    "Reports/Interview_Notes",
+    "LUTs",
+    "Dailies/Rough_Cut",
+    "Dailies/Interview_Selects",
+    "Archive/Raw_Footage",
+    "Archive/Audio_Files"
+  ]
+}

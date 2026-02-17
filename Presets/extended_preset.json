@@ -1,0 +1,19 @@
+{
+  "preset_name": "Extended",
+  "folders": [
+    "Camera_Media/A_Camera",
+    "Camera_Media/B_Camera",
+    "Camera_Media/C_Camera",
+    "Sound_Media/Boom",
+    "Sound_Media/Wireless",
+    "Reports/Camera_Reports",
+    "Reports/Sound_Reports",
+    "Reports/Script_Notes",
+    "LUTs/Show_LUTs",
+    "LUTs/Camera_LUTs",
+    "Dailies/Proxies/H264",
+    "Dailies/Proxies/ProRes_Proxy",
+    "Dailies/Graded/H264",
+    "Dailies/Graded/ProRes_422"
+  ]
+}
