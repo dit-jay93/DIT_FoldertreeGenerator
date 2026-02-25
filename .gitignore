@@ -45,5 +45,9 @@ iOSInjectionProject/
 .AppleDouble
 .LSOverride
 
+# Release / Distribution
+Release/
+dmg_staging/
+
 # Claude Code
 .claude/
